@@ -1,0 +1,17 @@
+Piano samples used by HarmonyPlug
+==================================
+
+"Salamander Grand Piano V3" by Alexander Holm (Yamaha C5 grand piano),
+licensed under the Creative Commons Attribution 3.0 Unported license (CC BY 3.0):
+https://creativecommons.org/licenses/by/3.0/
+
+Original: https://archive.org/details/SalamanderGrandPianoV3
+Source of these MP3 renders: https://tambien.github.io/Piano/audio/ (the @tonejs/piano sample set,
+the Salamander recordings converted to MP3).
+
+Changes made for HarmonyPlug: 30 notes (every minor third, A0 to C8), velocity layers 5 and 13
+of 16, trimmed to 3.5-8 s with a 1.2 s fade-out and re-encoded to 112 kbps MP3. The app
+pitch-shifts between neighbouring samples.
+
+CC BY 3.0 allows commercial use, sharing and adaptation, provided this attribution is kept.
+The HarmonyPlug software itself is © 2026 W. Carolino. Todos os direitos reservados.
