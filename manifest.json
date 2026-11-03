@@ -1,0 +1,20 @@
+{
+  "name": "HarmonyPlug",
+  "short_name": "HarmonyPlug",
+  "description": "Aprenda harmonia tocando e cantando, com o Doctor W. © 2026 W. Carolino.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0E0E0E",
+  "theme_color": "#0E0E0E",
+  "lang": "pt-BR",
+  "categories": ["education", "music"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
