@@ -1,7 +1,7 @@
 {
   "name": "HarmonyPlug",
   "short_name": "HarmonyPlug",
-  "description": "Aprenda harmonia tocando e cantando, com o Doctor W. © 2026 W. Carolino.",
+  "description": "Harmonia no piano: aprenda harmonia tocando piano ou teclado, com o Doctor W. © 2026 W. Carolino.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
